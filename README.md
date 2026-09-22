@@ -22,11 +22,13 @@
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ![3454323456](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI5MzgyeHZxNmZvMDQ5ZXlsYWFsMDBvbmJsczAzMW9oejZtZG5sOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Dco7ehLhc9fb7cfAgw/giphy.gif)
 
-⠀⠀
-⠀⠀
+
+<p align="center">
+/kill ↓
+
+ 
 <p align="center">
 <img width="300" height="225" alt="iidioootots" src="https://github.com/user-attachments/assets/bf399c26-44e9-459d-b4ed-5cbaaa6fb742" />
 </p>
 
-<p align="center">
-/kill ↑
+
